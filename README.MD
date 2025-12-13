@@ -15,18 +15,15 @@
 - Proyek ini dikembangkan sebagai bagian dari tugas akhir Analisis Data / Customer Segmentation.
 
 AC06 - Customer-Segmentation-For-Personalized-Retail-Marketing/
-│
-├── app.py                     # Dashboard Streamlit
-├── caps_pro.ipynb             # Notebook proses analisis & clustering
-├── online_retail.csv          # Dataset utama
-│
-├── rfm_df.csv                 # Output hasil RFM
-├── cluster_profile.csv        # Data persona cluster
-├── heatmap_data.csv           # Matriks transaksi
-├── top10_country.csv          # Revenue per negara
-├── revenue_month.csv          # Tren revenue bulanan
-│
-└── README.md                  # Dokumentasi proyek
+-- app.py                     # Dashboard Streamlit
+-- caps_pro.ipynb             # Notebook proses analisis & clustering
+-- online_retail.csv          # Dataset utama
+-- rfm_df.csv                 # Output hasil RFM
+-- cluster_profile.csv        # Data persona cluster
+-- heatmap_data.csv           # Matriks transaksi
+-- top10_country.csv          # Revenue per negara
+-- revenue_month.csv          # Tren revenue bulanan
+-- README.md                  # Dokumentasi proyek
 
 # 🧠 3. Ringkasan Metodologi
 3.1 RFM Analysis
@@ -183,4 +180,5 @@ Insight Tambahan:
 - Menunjukkan pemahaman dalam pengolahan data, analisis statistik, dan machine learning
 - Menyediakan visualisasi interaktif yang memudahkan interpretasi hasil
 - Menghasilkan rekomendasi pemasaran berbasis data
+
 
